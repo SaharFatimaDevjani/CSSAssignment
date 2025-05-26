@@ -1,4 +1,4 @@
-# 🎨 CSSAssignment – Responsive CSS Styling Practice
+# 🎨 CSSAssignment – CSS Styling Practice
 
 **CSSAssignment** is a frontend development project focused on mastering CSS layout and design techniques. Built using **HTML5 and CSS3**, this assignment showcases responsive design principles including grids, positioning, flexbox, and media queries. It's part of Sahar Fatima Devjani’s learning journey to become a creative and capable web developer.
 
